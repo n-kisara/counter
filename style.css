@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+main {
+    text-align: center;
+}
+
+textarea {
+    border: 1px solid;
+}
+
+#count {
+    font-size: 20px;
+}
