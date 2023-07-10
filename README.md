@@ -1,7 +1,7 @@
 # counter
 # ansur_travel_memory
 
-＃wordpress 手順書
+#wordpress 手順書
 
 ##初期設定画面を入力する
 
